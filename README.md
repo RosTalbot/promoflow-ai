@@ -1,4 +1,4 @@
-# PromoFlow AI 🎙️🚀  
+# PromoFlow AI 🎙️🌊
 **A GPT-powered system that automates podcast promotion workflows.**
 
 PromoFlow AI helps creators accelerate their content marketing by automatically generating short-form clips, titles, social captions, and thumbnail prompts from long-form podcast episodes.

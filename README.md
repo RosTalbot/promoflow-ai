@@ -3,6 +3,17 @@
 
 PromoFlow AI helps creators accelerate their content marketing by automatically generating short-form clips, titles, social captions, and thumbnail prompts from long-form podcast episodes.
 
+## Problem:
+Podcast asset production was tedious and manual, consuming hours of review and formatting every week.
+
+## Solution:
+Built an AI workflow that parses transcripts, extracts key takeaways, suggests clips, titles, captions, and thumbnails — with a human QA layer before publishing.
+
+## Results:
+- 4+ hours/week saved in manual asset creation
+- Streamlined collaboration between editors and marketing
+- Consistent branding across episodes
+
 ## ✨ Features
 - Extracts timestamps and key moments from podcast transcripts
 - Auto-generates YouTube titles, thumbnail prompts, and summaries
